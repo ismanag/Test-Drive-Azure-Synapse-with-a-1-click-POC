@@ -519,7 +519,7 @@
 					},
 					"SQLLoginUsername": {
 						"type": "string",
-						"defaultValue": "isman"
+						"defaultValue": "ismanz"
 					},
 					"KeyVaultName": {
 						"type": "string",
